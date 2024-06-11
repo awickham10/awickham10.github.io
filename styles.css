@@ -1,0 +1,13 @@
+body {
+    background-color: #f7f5f6;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
